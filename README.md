@@ -8,7 +8,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F1FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=WAGWAN!🕷;thank+you+for+visiting+my+repo🪐;I+am+XENPAI+YUJI+MD〽️🌻;Deploy+my+bot+y'all🖤🀄)](https://github.com/DONNAKUKS)
+[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F3FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=WAGWAN!🕷;thank+you+for+visiting+my+repo🪐;I+am+XENPAI+YUJI+MD〽️🌻;Deploy+my+bot+y'all🖤🀄)](https://github.com/DONNAKUKS)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -57,7 +57,7 @@
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingjux%2Fvenocyber-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FDonnakuks%2F xenpai-yuji-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://venocyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
   <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Donnakuks/xenpai-yuji-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622&env[MONGODB_URI]&&env[OWNER_NAME]=XENPAI-YUJI-MD ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=XENPAI-YUJI-MD ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=XENPAI-YUJI-MD&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Xenpai-Dark-tech&env[KOYEB_NAME]=xenpai-yuji-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
@@ -183,7 +183,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <p align="left">
 <a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+XENPAI+YUJI+MD+md;🌻;🀄)](https://github.com/Donnakuks)
+[![XENPAI-DARK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F3FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+XENPAI+YUJI+MD🌻🀄)](https://github.com/Donnakuks)
 
 <h1>🕷</h1> 
 <b>Thanks For</b> -
@@ -206,10 +206,10 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![XENPAI-DAR tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=goodluck+on+your+deployment;programmed;by+XENPAI-DARK;Admin🀄🌻)](https://github.com/Donnakuks)
+[![XENPAI-DAR tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=goodluck+on+your+deployment;programmed;by+XENPAI-DARK🀄🌻)](https://github.com/Donnakuks)
 
 <p align="center">
-  <a href="https://github.com/Kingjux/Xenpai-yuji-Md">
+  <a href="https://github.com/Donnakuks/Xenpai-yuji-Md">
     <img alt="v docs" src="">
   </a>
 </p>
