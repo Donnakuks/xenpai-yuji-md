@@ -16,7 +16,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/Kingjux/Venocyber-md">
-    <img alt="XENPAI-YUJI docs" height="300" src="https://telegra.ph/file/668659900721c3ef948c5.jpg">
+    <img alt="XENPAI-YUJI docs" src="https://telegra.ph/file/668659900721c3ef948c5.jpg">
   </a>
 </p>
     
@@ -188,7 +188,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <h1>🕷</h1> 
 <b>Thanks For</b> -
 
- [XENPAI-YUJI-MD🀄🌻](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
+ [XENPAI-YUJI-MD🀄🌻](https://wa.me/message/254737308001) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Donnakuks) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/254737308001) and [officialchuimsela](https://wa.me/+254737308001) thanks for helps 
 
  ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN)
 
