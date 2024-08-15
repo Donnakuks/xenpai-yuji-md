@@ -206,7 +206,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![XENPAI-DAR tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F1FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=goodluck+on+your+deploying;Bot+programmed+by+XENPAI+DARK🀄🌻)](https://github.com/Donnakuks)
+[![XENPAI-DAR tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F1FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Goodluck+on+deploying;Bot+programmed+by+XENPAI+DARK🀄🌻)](https://github.com/Donnakuks)
 
 <p align="center">
   <a href="https://github.com/Donnakuks/Xenpai-yuji-Md">
