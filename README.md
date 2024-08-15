@@ -39,7 +39,7 @@
 
 
 
-<p align="center"> XENPAI-YUJI-M🀄🌻D uses
+<p align="center"> XENPAI-YUJI-MD🌻🀄 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
