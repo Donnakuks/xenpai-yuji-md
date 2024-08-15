@@ -3,12 +3,12 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> XENPAI-YUJI-MD </h1> 
+<h1 align="center"> 🀄XENPAI-YUJI-MD🀄</h1> 
 <p align="center"> Introducing XENPAI-YUJI-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F1FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=WAGWAN!🕷;thank+you+for+visiting+my+repo;I+am+XENPAI+YUJI+MD〽️🌻;Deploy+my+bot+y'all)](https://github.com/DONNAKUKS)
+[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F1FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=WAGWAN!🕷;thank+you+for+visiting+my+repo🪐;I+am+XENPAI+YUJI+MD〽️🌻;Deploy+my+bot+y'all🖤🀄)](https://github.com/DONNAKUKS)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
