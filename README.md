@@ -8,14 +8,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=WAGWAN!!%F0%9F%91%8B!;thank+you+for+visiting+my+repo;I+am+XENPAI-YUJI-MD〽️🌻;Deploy+and+enjoy)](https://github.com/DONNAKUKS)
+[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F71FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=WAGWAN!!%F0%9F%91%8B;thank+you+for+visiting+my+repo;I+am+XENPAI-YUJI-MD〽️🌻;Deploy+my+y'all)](https://github.com/DONNAKUKS)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md">
+  <a href="https://github.com/Donnakuks/Xenpai-yuji-Md">
     <img alt="XENPAI-YUJI docs" src="https://telegra.ph/file/668659900721c3ef948c5.jpg">
   </a>
 </p>
@@ -206,11 +206,11 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![XENPAI-DAR tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+XENPAI-DARK;Admin🀄🌻)](https://github.com/Donnakuks)
+[![XENPAI-DAR tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=goodluck+on+your+deployment;programmed;by+XENPAI-DARK;Admin🀄🌻)](https://github.com/Donnakuks)
 
 <p align="center">
   <a href="https://github.com/Kingjux/Xenpai-yuji-Md">
-    <img alt="v docs" src="https://telegra.ph/file/668659900721c3ef948c5.jpg">
+    <img alt="v docs" src="">
   </a>
 </p>
     
